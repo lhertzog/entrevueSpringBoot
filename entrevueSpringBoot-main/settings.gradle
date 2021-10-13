@@ -1,0 +1,5 @@
+rootProject.name = 'entrevueSpringBoot'
+
+include('entrevueSpringBoot-rest')
+includeFlat 'entrevueSpringBoot-rest'
+
